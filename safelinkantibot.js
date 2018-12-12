@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="la-manera-de-empezar-un-negocio-en-casa.html"}
-if(x=="2"){xxx="10-consejos-para-iniciar-una-pequena.html"}
-if(x=="3"){xxx="ventajas-de-ser-propietario-de-un.html"}
-if(x=="4"){xxx="practicar-ambiental-nuestro-entorno.html"}a_to_ve[i].href="https://ve58.blogspot.com/2018/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="script-antibot.html"}
+if(x=="2"){xxx="la-manera-de-empezar-un-negocio-en-casa.html"}
+if(x=="3"){xxx="10-consejos-para-iniciar-una-pequena_57.html"}
+if(x=="4"){xxx="ventajas-de-ser-propietario-de-un.html"}a_to_ve[i].href="https://safelinksramdon.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
